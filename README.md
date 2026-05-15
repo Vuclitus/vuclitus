@@ -95,16 +95,6 @@ hobbies:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vuclitus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuclitus&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
