@@ -22,7 +22,7 @@
 
 ```yaml
 name: Vu Hong Quang
-username: clitusvu
+username: vuclitus
 
 located_in: Vietnam 🇻🇳
 
