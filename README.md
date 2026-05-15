@@ -68,23 +68,21 @@ hobbies:
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.facebook.com/oct.vhoqng">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
-<a href="https://www.facebook.com/oct.vhoqng">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+  <a href="https://discord.com/users/1247247764954419261">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 
-<a href="https://discord.com/users/1247247764954419261">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+  <a href="mailto:vuhongquang08.it@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:vuhongquang08.it@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vuclitus">
-<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/vuclitus">
+    <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -92,7 +90,17 @@ hobbies:
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,cpp,python,git,github,vscode,figma,photoshop,premiere,linux&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,cpp,python,git,github,vscode,figma,photoshop,premiere,linux&perline=6"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vuclitus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuclitus&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,7 +108,7 @@ hobbies:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vuclitus&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=vuclitus&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -108,7 +116,7 @@ hobbies:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vuclitus&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vuclitus&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -116,7 +124,7 @@ hobbies:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vuclitus&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vuclitus&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -124,7 +132,7 @@ hobbies:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/clitusvu/vuclitus/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/vuclitus/vuclitus/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -132,7 +140,7 @@ hobbies:
 # ✨ Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -140,7 +148,7 @@ hobbies:
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=clitusvu&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=vuclitus&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -148,7 +156,7 @@ hobbies:
 # 💻 Coding Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuclitus&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuclitus&theme=tokyonight"/>
 </p>
 
 ---
@@ -156,15 +164,15 @@ hobbies:
 # 🌌 Fun Animation
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="900"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
 <p align="center">
-⚡ <i>"Code. Create. Innovate."</i> ⚡
+  ⚡ <i>"Code. Create. Innovate."</i> ⚡
 </p>
